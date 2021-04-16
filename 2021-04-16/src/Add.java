@@ -7,10 +7,10 @@ public class Add {
 		int y;
 		int sum;
 		
-		System.out.print("Ã¹ ¹øÂ° ¼ýÀÚ¸¦ ÀÔ·ÂÇÏ½Ã¿À. ");
+		System.out.print("Ã¹ ï¿½ï¿½Â° ï¿½ï¿½ï¿½Ú¸ï¿½ ï¿½Ô·ï¿½ï¿½Ï½Ã¿ï¿½. ");
 		x = input.nextInt();
 		
-		System.out.print("µÎ ¹øÂ° ¼ýÀÚ¸¦ ÀÔ·ÂÇÏ½Ã¿À. ");
+		System.out.print("ï¿½ï¿½ ï¿½ï¿½Â° ï¿½ï¿½ï¿½Ú¸ï¿½ ï¿½Ô·ï¿½ï¿½Ï½Ã¿ï¿½. ");
 		y = input.nextInt();
 		
 		sum = x + y;
